@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 6d5e0b3f809725744bca9f7d34f652c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6604273608064741750
+    second: detective_cheer_0
+  - first:
+      213: 1989587687969886699
+    second: detective_cheer_1
+  - first:
+      213: -1507275098999244846
+    second: detective_cheer_2
+  - first:
+      213: 2245278575074935525
+    second: detective_cheer_3
+  - first:
+      213: -2541298421126567338
+    second: detective_cheer_4
+  - first:
+      213: 7678895951775546027
+    second: detective_cheer_5
+  - first:
+      213: -1520349357659163530
+    second: detective_cheer_6
+  - first:
+      213: 2115477065992797265
+    second: detective_cheer_7
+  - first:
+      213: -4306341215850501927
+    second: detective_cheer_8
+  - first:
+      213: 8147122038671768662
+    second: detective_cheer_9
+  - first:
+      213: 792696621720130891
+    second: detective_cheer_10
+  - first:
+      213: 3296693554670575255
+    second: detective_cheer_11
+  - first:
+      213: 8419397508397764687
+    second: detective_cheer_12
+  - first:
+      213: 6946079677195480385
+    second: detective_cheer_13
+  - first:
+      213: -1191416086142358550
+    second: detective_cheer_14
+  - first:
+      213: -868269191089160555
+    second: detective_cheer_15
+  - first:
+      213: 666049792328253942
+    second: detective_cheer_16
+  - first:
+      213: 6922979367771636150
+    second: detective_cheer_17
+  - first:
+      213: 8948213645004528942
+    second: detective_cheer_18
+  - first:
+      213: -3445193596717072684
+    second: detective_cheer_19
+  - first:
+      213: 8864414642719225402
+    second: detective_cheer_20
+  - first:
+      213: 1410055601329608180
+    second: detective_cheer_21
+  - first:
+      213: 4254793536874074212
+    second: detective_cheer_22
+  - first:
+      213: 5561274765181841784
+    second: detective_cheer_23
+  - first:
+      213: -6897563494229733001
+    second: detective_cheer_24
+  - first:
+      213: 5765525689679293865
+    second: detective_cheer_25
+  - first:
+      213: -2393297259018206285
+    second: detective_cheer_26
+  - first:
+      213: 675081767228529021
+    second: detective_cheer_27
+  - first:
+      213: -1971016410476784897
+    second: detective_cheer_28
+  - first:
+      213: 6583785083259337634
+    second: detective_cheer_29
+  - first:
+      213: -2017619972248509088
+    second: detective_cheer_30
+  - first:
+      213: -5520067478447532784
+    second: detective_cheer_31
+  - first:
+      213: -3293718377588291328
+    second: detective_cheer_32
+  - first:
+      213: 4419573841346296321
+    second: detective_cheer_33
+  - first:
+      213: -5875109957436129423
+    second: detective_cheer_34
+  - first:
+      213: 1375478231165310145
+    second: detective_cheer_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: detective_cheer_0
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 867
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bf280bd717ab50800000000000000
+      internalID: 6604273608064741750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 934
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be19feef57f6c9b10800000000000000
+      internalID: 1989587687969886699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 903
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7bb598845151be0800000000000000
+      internalID: -1507275098999244846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 851
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e20321d7f4d82f10800000000000000
+      internalID: 2245278575074935525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 871
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6d74ec8e7bbcd0800000000000000
+      internalID: -2541298421126567338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 867
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa34c00f2be09a60800000000000000
+      internalID: 7678895951775546027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 884
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747b3a7052a6eae0800000000000000
+      internalID: -1520349357659163530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 869
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c7cf8ee2fab5d10800000000000000
+      internalID: 2115477065992797265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 881
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d86b9bea7dcc34c0800000000000000
+      internalID: -4306341215850501927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 785
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c79c03454601170800000000000000
+      internalID: 8147122038671768662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 508
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45d748a069300b00800000000000000
+      internalID: 792696621720130891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 848
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9573425530cd20800000000000000
+      internalID: 3296693554670575255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 743
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f409bde0d65b7d470800000000000000
+      internalID: 8419397508397764687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 732
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14debcc1aae656060800000000000000
+      internalID: 6946079677195480385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_14
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 700
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb6ccdc16d377fe0800000000000000
+      internalID: -1191416086142358550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 748
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ef6bf55c943f3f0800000000000000
+      internalID: -868269191089160555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 686
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c27ad1c84e3900800000000000000
+      internalID: 666049792328253942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 667
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b103633e0d531060800000000000000
+      internalID: 6922979367771636150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_18
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 709
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5cc486e07e2c70800000000000000
+      internalID: 8948213645004528942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 649
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de7a3d5da63030d0800000000000000
+      internalID: -3445193596717072684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 655
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fc01e62ab40b70800000000000000
+      internalID: 8864414642719225402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 633
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51dce3916819310800000000000000
+      internalID: 1410055601329608180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 630
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d10ecd201c0b30800000000000000
+      internalID: 4254793536874074212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_23
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 631
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f10d1fed9d2d40800000000000000
+      internalID: 5561274765181841784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 623
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7711cbefb8ee640a0800000000000000
+      internalID: -6897563494229733001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 598
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad29b45113430050800000000000000
+      internalID: 5765525689679293865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 537
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3cd4ab2dc49ced0800000000000000
+      internalID: -2393297259018206285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_27
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 529
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79dff16a4f5e5900800000000000000
+      internalID: 675081767228529021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_28
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 585
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2d01f740b85a4e0800000000000000
+      internalID: -1971016410476784897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 504
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab303d96ad4e5b50800000000000000
+      internalID: 6583785083259337634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 519
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065e4663359fff3e0800000000000000
+      internalID: -2017619972248509088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_31
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 515
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015d2faffd7c463b0800000000000000
+      internalID: -5520067478447532784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_32
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 439
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0098ca1269c5a42d0800000000000000
+      internalID: -3293718377588291328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_33
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10afd082efa755d30800000000000000
+      internalID: 4419573841346296321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_34
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 477
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb8a21f9a677ea0800000000000000
+      internalID: -5875109957436129423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detective_cheer_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 56
+        width: 318
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c414e4e92ea61310800000000000000
+      internalID: 1375478231165310145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      detective_cheer_0: 6604273608064741750
+      detective_cheer_1: 1989587687969886699
+      detective_cheer_10: 792696621720130891
+      detective_cheer_11: 3296693554670575255
+      detective_cheer_12: 8419397508397764687
+      detective_cheer_13: 6946079677195480385
+      detective_cheer_14: -1191416086142358550
+      detective_cheer_15: -868269191089160555
+      detective_cheer_16: 666049792328253942
+      detective_cheer_17: 6922979367771636150
+      detective_cheer_18: 8948213645004528942
+      detective_cheer_19: -3445193596717072684
+      detective_cheer_2: -1507275098999244846
+      detective_cheer_20: 8864414642719225402
+      detective_cheer_21: 1410055601329608180
+      detective_cheer_22: 4254793536874074212
+      detective_cheer_23: 5561274765181841784
+      detective_cheer_24: -6897563494229733001
+      detective_cheer_25: 5765525689679293865
+      detective_cheer_26: -2393297259018206285
+      detective_cheer_27: 675081767228529021
+      detective_cheer_28: -1971016410476784897
+      detective_cheer_29: 6583785083259337634
+      detective_cheer_3: 2245278575074935525
+      detective_cheer_30: -2017619972248509088
+      detective_cheer_31: -5520067478447532784
+      detective_cheer_32: -3293718377588291328
+      detective_cheer_33: 4419573841346296321
+      detective_cheer_34: -5875109957436129423
+      detective_cheer_35: 1375478231165310145
+      detective_cheer_4: -2541298421126567338
+      detective_cheer_5: 7678895951775546027
+      detective_cheer_6: -1520349357659163530
+      detective_cheer_7: 2115477065992797265
+      detective_cheer_8: -4306341215850501927
+      detective_cheer_9: 8147122038671768662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
