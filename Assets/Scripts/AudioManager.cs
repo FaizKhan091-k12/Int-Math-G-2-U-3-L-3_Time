@@ -8,6 +8,10 @@ public class AudioManager : MonoBehaviour
     public AudioSource sfxSource;
     public AudioSource musicSource;
 
+    [Header("Music")]
+    public AudioClip bgmClip;
+    [Range(0f, 1f)] public float musicVolume = 0.35f;
+
     private AudioClip clickClip;
     private AudioClip correctClip;
     private AudioClip wrongClip;
@@ -32,9 +36,26 @@ public class AudioManager : MonoBehaviour
         if (sfxSource == null) sfxSource = gameObject.AddComponent<AudioSource>();
         if (musicSource == null) musicSource = gameObject.AddComponent<AudioSource>();
 
+        musicSource.loop = true;
+        musicSource.volume = musicVolume;
+        musicSource.playOnAwake = false;
+
+#if UNITY_EDITOR
+        if (bgmClip == null)
+        {
+            bgmClip = UnityEditor.AssetDatabase.LoadAssetAtPath<AudioClip>("Assets/Audio/bgm_time_detective.wav");
+        }
+#endif
+
         GenerateProceduralClips();
 
         isMuted = PlayerPrefs.GetInt("TimeDetective_Mute", 0) == 1;
+
+        if (bgmClip != null)
+        {
+            musicSource.clip = bgmClip;
+        }
+
         ApplyMute();
     }
 
@@ -209,6 +230,37 @@ public class AudioManager : MonoBehaviour
     private void ApplyMute()
     {
         if (sfxSource != null) sfxSource.mute = isMuted;
-        if (musicSource != null) musicSource.mute = isMuted;
+
+        if (musicSource != null)
+        {
+            musicSource.mute = isMuted;
+
+            if (isMuted)
+            {
+                if (musicSource.isPlaying)
+                {
+                    musicSource.Pause();
+                }
+            }
+            else
+            {
+                if (musicSource.clip != null)
+                {
+                    if (!musicSource.isPlaying)
+                    {
+                        musicSource.Play();
+                    }
+                    else
+                    {
+                        musicSource.UnPause();
+                    }
+                }
+                else if (bgmClip != null)
+                {
+                    musicSource.clip = bgmClip;
+                    musicSource.Play();
+                }
+            }
+        }
     }
 }
